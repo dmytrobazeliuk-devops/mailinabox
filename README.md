@@ -64,7 +64,7 @@ Clone this repository and checkout the tag corresponding to the most recent rele
 
 Begin the installation.
 
-	$ sudo setup/start.sh
+	sudo setup/start.sh
 
 The installation will install, uninstall, and configure packages to turn the machine into a working, good mail server.
 
